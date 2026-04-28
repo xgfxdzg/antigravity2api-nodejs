@@ -2,6 +2,7 @@
 
 本文档介绍如何使用 Antigravity2API 提供的 OpenAI 兼容 API。
 
+
 ## 基础配置
 
 所有 API 请求需要在 Header 中携带 API Key：
